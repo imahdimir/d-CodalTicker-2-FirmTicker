@@ -1,2 +1,2 @@
 # Short Description
-**Codal Tickers** to **Base Tickers** Map
+**Codal Tickers** to **Firm Tickers** Map
